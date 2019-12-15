@@ -1,6 +1,6 @@
-# JavaScript Client for [Cayley](https://github.com/cayleygraph/cayley)
+# Go Client for [Cayley](https://github.com/cayleygraph/cayley)
 
-### [Documentation](https://cayleygraph.github.io/javascript-client/)
+### [Documentation](https://godoc.org/github.com/cayleygraph/go-client)
 
 ### Installation
 
